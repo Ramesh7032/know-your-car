@@ -1,0 +1,97 @@
+.head{
+    width: 100%;
+    height: 110px;
+    background-color: rgb(14, 14, 51);
+    
+}
+.form1{
+    margin-top: 70px;
+    border: solid 1px;
+    width: 270px;
+    height: 230px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px #888888;
+    background-color: white;
+    margin-right: 460px;
+    opacity: 0.7;
+   
+
+}
+.form1 h3{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.input2{
+    height: 30px;
+    font-size: 10px;
+    width: 170px;
+    text-align: center;
+    border-width:1px;
+    border-radius: 5px;
+    
+}
+.input1:hover{
+    transform: scale(1.05);
+    transition-duration: 700ms;
+    cursor: pointer;
+}
+.input2:hover{
+    transform: scale(1.05);
+    transition-duration: 700ms;
+    cursor: pointer;
+}
+.input1{
+    height: 30px;
+    font-size: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 170px;
+    border-width:1px;
+    border-radius: 5px;
+     
+}
+
+.btn21{
+    width: 50px;
+    font-size: 10px;
+    margin-top: 10px;
+    height: 20px;
+}
+.btn21:hover{
+    transform: scale(1.1);
+    transition-duration: 700ms;
+}
+.login{
+    width: 100%;
+    background-color:linear-gradient(to bottom, #3498db, #2980b9);
+}
+.list21{
+    color: white;
+    display: flex;
+    margin-top: 50px;
+    margin-right: 100px;
+    gap: 40px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.list21 p:hover{
+    transform: scale(1.1);
+    transition-duration: 600ms;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+
+.p-link{
+    text-decoration: none;
+    color: white;
+}
+
+.center1{
+    background-image: url('./porsche\ 1.webp');
+    height: 380px;
+    width: 100%;
+    
+    
+}

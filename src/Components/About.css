@@ -1,0 +1,57 @@
+.about1{
+    width: 70%;
+    margin: 3% 15%;
+    height: fit-content;
+}
+.about2{
+    text-align: center;
+}
+.para{
+    
+    margin: 20px 60px;
+}
+
+.about3{
+    margin-bottom: 20px;
+}
+.badge1{
+    font-size: 25px;
+}
+.about4{
+    display: flex;
+    width: 300px;
+}
+.badge{
+    margin-right: 10px;
+}
+.badge0{
+    display: flex;
+    width: 100%;
+    margin-bottom: 40px;
+    margin-top: 50px;
+}
+.header-about{
+    display: flex;
+    width: 100%;
+    background-color:rgb(14, 14, 51);
+}
+.list22{
+    display: flex;
+    color: white;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.list22 p{
+    margin-left: 40px;
+    font-size: 13px;
+    text-decoration: none;
+    color: white;
+
+}
+.list22 p:hover{
+    transform: scale(1.1);
+    transition-duration: 600ms;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}

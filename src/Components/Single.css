@@ -1,0 +1,131 @@
+
+.image1{
+    display: flex;
+    justify-content: center;
+    
+    margin-top: 10px;
+    border-radius: 15px;
+}
+body{
+    background-color: #ffffff;
+}
+
+.details h2{
+    margin-top: 12rem;
+    margin-left: 5rem;
+    text-align: left;
+}
+table{
+    margin-left: 40rem;
+    margin-top: 1rem;
+}
+.about{
+    width: 100%;
+}
+.td1{
+    width: 50rem;
+    height: 7rem;
+    margin-top: 2rem;
+}
+.td1 h4{
+    margin-bottom: 5px;
+}
+.main21{
+    display: flex;
+    width: 80%;
+    height: 50%;
+    margin: 0rem 20rem;
+}
+.head2{
+    margin-bottom: 20px;
+}
+.head3{
+    margin-left: 35px;
+}
+.span2{
+    font-weight: 500;
+    margin-left: 10px;
+    font-size: 10px;
+    color: blue;
+    cursor: pointer;
+  
+}
+.head3{
+    font-weight: 2000;
+    font-size: 13px;
+}
+.keyspec{
+    text-align: left;
+    margin-left: 40rem;
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 3rem;
+}
+.specs{
+    display: flex;
+    margin-left: 33rem;
+    margin-bottom: 50px;
+}
+.specs1{
+    
+    width: 150px;
+    align-items: center;
+    text-align: center;
+}
+.specs12{
+    font-size: 8px;
+    margin-bottom: 7px;
+}
+.span12{
+    margin-top: 20px;
+}
+.foot{
+    display: flex;
+    margin: 20px 15%;
+}
+.foot2{
+    font-size: 9px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+.foot1{
+    width: 25%;
+    
+}
+.foothead{
+    margin-bottom: 10px;
+}
+.ima{
+    margin-right: 10px;
+}
+.image100{
+    cursor: pointer;
+}
+.pa{
+    margin-left: 40px;
+    margin-top: 10px;
+    font-weight: 300;
+    font-size: 9px;
+}
+.last{
+    height: 40px;
+}
+.last0{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 120px;
+}
+.last1{
+    display: flex;
+    margin-top: 10px;
+}
+.head5{
+    margin-right: 10px;
+    font-size: 10px;
+    font-weight: bolder;
+}
+.logof{
+    font-size: 15px;
+    margin-right: 10px;
+    cursor: pointer;
+}

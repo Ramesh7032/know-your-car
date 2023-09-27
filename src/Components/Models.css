@@ -1,0 +1,69 @@
+.lamborghini{
+    width: 100%;
+    height: 100%;
+}
+
+.lam3{
+    width: 200px;
+    height: 220px;
+   cursor: pointer;
+}
+.lam3:hover{
+    transform: scale(1.04);
+    transition-duration: 700ms;
+
+}
+.lamborghini2{
+    
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
+    gap: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    
+}
+
+.lamhead{
+    width: 100%;
+    background-color: rgb(14, 14, 51);
+    height: 110px;
+    display: flex;
+    justify-content: space-between;
+}
+.lam3 h3{
+    padding-top: 10px;
+    font-family:monospace;
+}
+.lamhead h2{
+    margin-top: 20px;
+    color: white;
+    padding-left: 30px;
+    font-weight: 400;
+    cursor: pointer;
+    text-decoration: none;
+}
+.heading1 h2:hover{
+    transform: scale(1.1);
+    transition-duration: 600ms;
+}
+
+.heading1{
+    height: 100px; 
+    padding-top: 30px;
+    text-align: center;
+    display: flex;
+    color: aliceblue;
+    
+    text-decoration: none;
+}
+.heading1 img{
+    border-radius: 10px;
+    margin-left: 50px;
+    height: 50px;
+    margin-right: 60px;
+}
+.heading1{
+    font-size: 10px;
+}
+

@@ -1,0 +1,61 @@
+.div1{
+    margin: 0% 40%;
+    margin-top: 40px;
+    padding-bottom: 30px;
+  }
+  .input21{
+    border-radius: 4px;
+    width: 250px;
+    height: 30px;
+    margin-top: 10px;
+    font-size: 15px;
+  }
+  .input21:hover{
+    transform: scale(1.04);
+    transition-duration: 700ms;
+  }
+  .btn{
+    width: 70px;
+    height: 25px;
+    
+    border-radius: 3px;
+    
+  }
+  .btn:hover{
+    transform: scale(1.03);
+    transition-duration: 600ms;
+  }
+  .div1 label{
+    font-size: 13px;
+  }
+  .admin-h2{
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 30px;
+    font-family: cursive;
+    margin-right: 110px;
+  }
+
+  .admin-form{
+    border: solid;
+  background-color: antiquewhite;
+    padding-right: 30px;
+    /* width: fit-content ; */
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px rgb(129, 129, 102);
+    
+  }
+  .div1{
+    margin-right: 230px;
+  }
+
+  .admin-form:hover{
+    transform: scale(1.02);
+    transition-duration: 600ms;
+    cursor: pointer;
+    text-decoration: none;
+  }
