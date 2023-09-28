@@ -8,7 +8,7 @@ import lr1 from "./lr2.png";
 function Lamborghini() {
   const [car, setcar] = useState([]);
   useEffect(() => {
-    fetch("/user")
+    fetch("https://know-your-car-server.vercel.app/user")
       .then((res) => res.json())
       .then((ans) => setcar(ans))
       .catch((err) => console.log(err.message));

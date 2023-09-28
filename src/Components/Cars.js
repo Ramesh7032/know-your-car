@@ -59,9 +59,10 @@ export default function Cars() {
 
             <div className="select-Container">
               <select className="select-box">
-                <option value=""> CAR MODELS</option>
+                <option value="">
+                  <Link to="/">CAR MODELS</Link>
+                </option>
                 <option value="first">
-                  {" "}
                   <Link to="/Lamborghini">Lamborghini</Link>
                 </option>
 
