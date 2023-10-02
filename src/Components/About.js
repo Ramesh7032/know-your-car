@@ -21,11 +21,11 @@ export default function About() {
           <img src={web1} width="150" height="110" alt="" className="logo1" />
         </nav>
         <div className="list22">
-          <Link to="/">
+          <Link to="/" className="linka">
             {" "}
             <p>Home</p>{" "}
           </Link>
-          <Link to="/login">
+          <Link to="/login" className="linka">
             <p>SignIn</p>{" "}
           </Link>
         </div>

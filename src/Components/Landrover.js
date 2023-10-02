@@ -38,11 +38,11 @@ function Lamborghini() {
         <img src={web1} width="150" height="110" alt="" className="logo1" />
 
         <div className="heading1">
-          <Link to="/">
+          <Link to="/" className="linkp">
             {" "}
             <h2 className="link">Home</h2>{" "}
           </Link>
-          <Link to="/about">
+          <Link to="/about" className="linkp">
             <h2>About</h2>{" "}
           </Link>
           <img src={lr1} alt="" />
